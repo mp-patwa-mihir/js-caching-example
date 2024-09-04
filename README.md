@@ -1,6 +1,6 @@
 # js-caching-example
-Efficient JavaScript caching technique to optimize performance by reducing redundant computations and API calls. Includes examples of wrapping expensive functions with caching for faster execution, enhancing your application's speed and efficiency.
 
+Efficient JavaScript caching technique to optimize performance by reducing redundant computations and API calls. Includes examples of wrapping expensive functions with caching for faster execution, enhancing your application's speed and efficiency.
 
 # JavaScript Caching Example
 
@@ -15,16 +15,20 @@ This repository demonstrates an efficient caching technique in JavaScript to opt
 ## Usage
 
 1. Clone the repository:
+
    ```bash
    git clone https://github.com/mp-patwa-mihir/js-caching-example.git
 
+   ```
+
 2. Enter to folder
-    ```bash
+
+   ```bash
    cd js-caching-example
 
-2. Run code
-    ```bash
-   node yourfilename.js
+   ```
 
-
-
+3. Run code
+   ```bash
+   node cacheFunction.js
+   ```
